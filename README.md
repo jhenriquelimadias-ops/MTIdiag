@@ -1,1 +1,3 @@
-# MTIdiag
+O MTIdiag foi criado para facilitar e organizar o trabalho de diagnóstico e manutenção de computadores. O sistema permite registrar informações de hardware, identificar problemas, documentar testes realizados e verificar a necessidade de formatação. Também possibilita manter um histórico dos atendimentos e gerar relatórios para compartilhar com o responsável técnico.
+
+Desenvolvi o projeto a partir de uma necessidade que surgiu no meu próprio ambiente de trabalho: ter uma maneira mais prática, rápida e organizada de registrar as informações dos computadores analisados, evitando anotações dispersas e facilitando a comunicação dos resultados para meu chefe.
